@@ -155,12 +155,12 @@
         "class": "tab_label",
         "fade": true,
         "font.size": 11.0,
-        "fg": [61, 71, 79]
+        "fg": [79, 91, 102]
     },
     {
         "class": "tab_label",
         "parents": [{"class": "tab_control","attributes": ["hover"]}],
-        "fg": [79, 91, 102]
+        "fg": [94, 109, 122]
     },
     {
         "class": "tab_label",
