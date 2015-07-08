@@ -1,4 +1,4 @@
-Theme - Solarized Space
+sublime-theme-solarized-space
 =======================
 
 Light and dark solarized themes for Sublime Text.
@@ -54,11 +54,11 @@ Color Schemes
 Solarized light with lighter cursor
 
 ```json
-"color_scheme": "Packages/Theme - Solarized Space/Solarized V (Light).tmTheme",
+"color_scheme": "Packages/sublime-theme-solarized-space/Solarized V (Light).tmTheme",
 ```
 
 Solarized light for [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing)
 
 ```json
-"color_scheme": "Packages/Theme - Solarized Space/Solarized V Markdown (Light).tmTheme",
+"color_scheme": "Packages/sublime-theme-solarized-space/Solarized V Markdown (Light).tmTheme",
 ```

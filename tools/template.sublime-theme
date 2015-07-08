@@ -68,7 +68,7 @@
     // Tab close button
     {
         "class": "tab_close_button",
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/close.png",
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/close.png",
         "layer0.opacity": 0,
         "layer0.tint": $CloseButton
     },
@@ -80,7 +80,7 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["hover"]}],
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/close.png",
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/close.png",
         "layer0.opacity": 1
     },
     {
@@ -99,7 +99,7 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["dirty"]}],
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/circle.png",
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/circle.png",
         "layer0.tint": $CloseButtonHover,
         "layer0.opacity": 1
     },
@@ -113,7 +113,7 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["dirty","hover"]}],
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/close.png",
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/close.png",
         "attributes": ["hover"],
         "layer0.opacity": 1,
         "layer0.tint": $CloseButtonHover
@@ -179,7 +179,7 @@
 
     {
         "class": "fold_button_control",
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/folder-closed.png",
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/folder-closed.png",
         "layer0.tint": $FoldButton,
         "layer0.opacity": 0.5,
         "layer0.inner_margin": 0,
@@ -193,7 +193,7 @@
     {
         "class": "fold_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/folder-open.png"
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/folder-open.png"
     },
     {
         "class": "fold_button_control",
@@ -287,7 +287,7 @@
     {
         "class": "puck_control",
         "settings": ["overlay_scroll_bars"],
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/overlay-puck-vertical.png",
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/overlay-puck-vertical.png",
         "layer0.inner_margin": [0,5],
         "content_margin": [4,32],
         "blur": true
@@ -297,7 +297,7 @@
         "class": "puck_control",
         "settings": ["overlay_scroll_bars"],
         "attributes": ["horizontal"],
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/overlay-puck-horizontal.png",
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/overlay-puck-horizontal.png",
         "layer0.inner_margin": [5,0],
         "content_margin": [16,4],
         "blur": true
@@ -307,14 +307,14 @@
         "class": "puck_control",
         "settings": ["overlay_scroll_bars"],
         "attributes": ["dark"],
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/overlay-puck-vertical.png"
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/overlay-puck-vertical.png"
     },
     // Overlay light horizontal puck (for dark content)
     {
         "class": "puck_control",
         "settings": ["overlay_scroll_bars"],
         "attributes": ["horizontal","dark"],
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/overlay-puck-horizontal.png"
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/overlay-puck-horizontal.png"
     },
 
 //
@@ -525,7 +525,7 @@
     // Sidebar file close
     {
         "class": "close_button",
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/close.png",
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/close.png",
         "layer0.opacity": 0,
         "layer0.inner_margin": 0,
         "layer0.tint": $CloseButton,
@@ -545,7 +545,7 @@
     {
         "class": "close_button",
         "attributes": ["dirty"],
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/circle.png",
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/circle.png",
         "layer0.opacity": 1,
         "layer0.tint": $CloseButtonHover
     },
@@ -553,7 +553,7 @@
         "class": "close_button",
         "attributes": ["dirty"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/circle.png"
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/circle.png"
     },
     // Sidebar file close hover
     {
@@ -565,7 +565,7 @@
         "class": "close_button",
         "attributes": ["dirty", "hover"],
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/close.png",
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/close.png",
         "layer0.tint": $CloseButtonHover
     },
 
@@ -577,7 +577,7 @@
     {
         "class": "disclosure_button_control",
         "content_margin": [8,8],
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/folder-closed.png",
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/folder-closed.png",
         "layer0.tint": $FoldButton,
         "layer0.opacity": 1,
         "layer0.inner_margin": 0
@@ -595,7 +595,7 @@
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/folder-open.png"
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/folder-open.png"
     },
     {
         "class": "disclosure_button_control",
@@ -606,7 +606,7 @@
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/folder-open.png"
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/folder-open.png"
     },
 
 //
@@ -828,7 +828,7 @@
     // Regex search button
     {
         "class": "icon_regex",
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/regex.png",
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/regex.png",
         "layer0.tint": $BottomPanelIcon,
         "layer0.opacity": 1,
         "content_margin": 8
@@ -842,7 +842,7 @@
     // Case sensitive search button
     {
         "class": "icon_case",
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/casesens.png",
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/casesens.png",
         "layer0.tint": $BottomPanelIcon,
         "layer0.opacity": 1,
         "content_margin": 8
@@ -855,7 +855,7 @@
     // Match whole word search button
     {
         "class": "icon_whole_word",
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/wholeword.png",
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/wholeword.png",
         "layer0.tint": $BottomPanelIcon,
         "layer0.opacity": 1,
         "content_margin": 8
@@ -873,7 +873,7 @@
     // Show search context button
     {
         "class": "icon_context",
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/context.png",
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/context.png",
         "layer0.tint": $BottomPanelIcon,
         "layer0.opacity": 1,
         "content_margin": 8
@@ -886,7 +886,7 @@
     // Use search buffer
     {
         "class": "icon_use_buffer",
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/buffer.png",
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/buffer.png",
         "layer0.tint": $BottomPanelIcon,
         "layer0.opacity": 1,
         "content_margin": 8
@@ -903,7 +903,7 @@
     // Reverse search direction button (ST2 only)
     {
         "class": "icon_reverse",
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/reverse.png",
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/reverse.png",
         "layer0.tint": $BottomPanelIcon,
         "layer0.opacity": 1,
         "content_margin": 8
@@ -916,7 +916,7 @@
     // Search wrap button
     {
         "class": "icon_wrap",
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/wrap.png",
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/wrap.png",
         "layer0.tint": $BottomPanelIcon,
         "layer0.opacity": 1,
         "content_margin": 8
@@ -929,7 +929,7 @@
     // Search in selection button
     {
         "class": "icon_in_selection",
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/selection.png",
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/selection.png",
         "layer0.tint": $BottomPanelIcon,
         "layer0.opacity": 1,
         "content_margin": 8
@@ -947,7 +947,7 @@
     // Preserve case button
     {
         "class": "icon_preserve_case",
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/lock.png",
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/lock.png",
         "layer0.tint": $BottomPanelIcon,
         "layer0.opacity": 1,
         "content_margin": 8
@@ -965,7 +965,7 @@
     // Highlight results button
     {
         "class": "icon_highlight",
-        "layer0.texture": "Theme - Solarized Space/Solarized Space/highlight.png",
+        "layer0.texture": "sublime-theme-solarized-space/Solarized Space/highlight.png",
         "layer0.tint": $BottomPanelIcon,
         "layer0.opacity": 1,
         "content_margin": 8
