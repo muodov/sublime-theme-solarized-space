@@ -344,27 +344,27 @@
     {
         "class": "minimap_control",
         "settings": ["always_show_minimap_viewport"],
-        "viewport_color": [6, 50, 64],
+        "viewport_color": [18, 70, 87],
         "viewport_opacity": { "target": 0.2, "speed": 3.0, "interpolation": "smoothstep" }
     },
     {
         "class": "minimap_control",
         "attributes": ["hover"],
         "settings": ["always_show_minimap_viewport"],
-        "viewport_color": [6, 50, 64],
+        "viewport_color": [18, 70, 87],
         "viewport_opacity": { "target": 0.35, "speed": 3.0, "interpolation": "smoothstep" }
     },
     {
         "class": "minimap_control",
         "settings": ["!always_show_minimap_viewport"],
-        "viewport_color": [6, 50, 64],
+        "viewport_color": [18, 70, 87],
         "viewport_opacity": { "target": 0.0, "speed": 5.0, "interpolation": "smoothstep" }
     },
     {
         "class": "minimap_control",
         "attributes": ["hover"],
         "settings": ["!always_show_minimap_viewport"],
-        "viewport_color": [6, 50, 64],
+        "viewport_color": [18, 70, 87],
         "viewport_opacity": { "target": 0.35, "speed": 5.0, "interpolation": "smoothstep" }
     },
 
