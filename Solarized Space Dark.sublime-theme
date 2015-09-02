@@ -235,7 +235,7 @@
         "class": "puck_control",
         "layer0.texture": "sublime-theme-solarized-space/Solarized Space/standard-puck-vertical-dark.png",
         "layer0.opacity": 1.0,
-        "layer0.inner_margin": [0, 10],
+        "layer0.inner_margin": [0, 5],
         "content_margin": [8, 12],
         "blur": false
     },
